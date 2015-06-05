@@ -11,5 +11,8 @@ using namespace std;
 
 int main() {
 	cout << "!!!Hello Mundo2!!!" << endl; // prints !!!Hello World!!!
-	return 0;
+	if(a==1)
+		return 0;
+	else
+		return 1;
 }
