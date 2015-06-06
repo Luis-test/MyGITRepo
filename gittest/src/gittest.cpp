@@ -20,3 +20,8 @@ int main() {
 
 	//y seguimos añadiendo cosas
 }
+
+void otherfunc(void){
+	int a;
+	a = 3;
+}
